@@ -1,0 +1,811 @@
+2016-09-18 08:27:01,573 - DEBUG - Cache file does not exist. Creating new file as: events.data
+2016-09-18 08:27:01,860 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:27:18,462 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:27:54,797 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:28:00,881 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:00] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:27,377 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:28:28,931 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:29,160 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:29] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:29,700 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:29,882 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:29] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:30,302 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:30,466 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:30] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:30,827 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:30,991 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:30] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:31,323 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:31,493 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:31] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:31,767 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:31,961 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:31] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:32,166 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:32,372 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:32] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:28:32,499 - DEBUG - September_18 exists in calendar
+2016-09-18 08:28:32,728 - INFO - 127.0.0.1 - - [18/Sep/2016 08:28:32] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:29:44,852 - DEBUG - September_18 exists in calendar
+2016-09-18 08:29:45,006 - INFO - 127.0.0.1 - - [18/Sep/2016 08:29:45] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:29:45,161 - DEBUG - September_18 exists in calendar
+2016-09-18 08:29:45,309 - INFO - 127.0.0.1 - - [18/Sep/2016 08:29:45] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:29:45,637 - DEBUG - September_18 exists in calendar
+2016-09-18 08:29:45,786 - INFO - 127.0.0.1 - - [18/Sep/2016 08:29:45] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:29:49,218 - DEBUG - September_18 exists in calendar
+2016-09-18 08:29:49,402 - INFO - 127.0.0.1 - - [18/Sep/2016 08:29:49] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:29:54,282 - DEBUG - September_18 exists in calendar
+2016-09-18 08:29:54,431 - INFO - 127.0.0.1 - - [18/Sep/2016 08:29:54] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:29:56,325 - DEBUG - September_18 exists in calendar
+2016-09-18 08:29:56,474 - INFO - 127.0.0.1 - - [18/Sep/2016 08:29:56] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:30:15,598 - DEBUG - September_18 exists in calendar
+2016-09-18 08:30:15,747 - INFO - 127.0.0.1 - - [18/Sep/2016 08:30:15] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:30:23,363 - DEBUG - September_18 exists in calendar
+2016-09-18 08:30:23,526 - INFO - 127.0.0.1 - - [18/Sep/2016 08:30:23] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:33:06,091 - DEBUG - September_18 exists in calendar
+2016-09-18 08:33:06,291 - INFO - 127.0.0.1 - - [18/Sep/2016 08:33:06] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:33:09,157 - DEBUG - September_18 exists in calendar
+2016-09-18 08:33:09,306 - INFO - 127.0.0.1 - - [18/Sep/2016 08:33:09] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:33:09,933 - DEBUG - September_18 exists in calendar
+2016-09-18 08:33:10,083 - INFO - 127.0.0.1 - - [18/Sep/2016 08:33:10] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:33:11,438 - DEBUG - September_18 exists in calendar
+2016-09-18 08:33:11,605 - INFO - 127.0.0.1 - - [18/Sep/2016 08:33:11] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:09,061 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:09,212 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:09] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:09,841 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:09,988 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:09] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:30,144 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:30,338 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:30] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:31,114 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:31,260 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:31] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:37,318 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:37,476 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:37] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:39,071 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:39,217 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:39] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:39,789 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:39,938 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:39] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:40,578 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:40,786 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:40] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:57,516 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:57,671 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:57] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:34:58,161 - DEBUG - September_18 exists in calendar
+2016-09-18 08:34:58,315 - INFO - 127.0.0.1 - - [18/Sep/2016 08:34:58] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:07,261 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:07,409 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:07] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:08,066 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:08,246 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:08] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:08,449 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:08,666 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:08] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:08,880 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:09,029 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:09] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:09,056 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:09,244 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:09] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:43,713 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:43,886 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:43] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:44,169 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:44,333 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:44] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:44,340 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:44,563 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:44] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:57,606 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:57,767 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:57] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:58,113 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:58,277 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:58] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:58,353 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:58,522 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:58] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:59,029 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:59,218 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:59] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:35:59,441 - DEBUG - September_18 exists in calendar
+2016-09-18 08:35:59,648 - INFO - 127.0.0.1 - - [18/Sep/2016 08:35:59] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:00,285 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:00,433 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:00] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:01,100 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:01,250 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:01] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:01,725 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:01,957 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:01] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:21,141 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:21,298 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:21] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:22,189 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:22,383 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:22] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:40,636 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:40,828 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:40] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:36:43,323 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:43,473 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:43] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:36:44,258 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:44,411 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:44] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:36:52,428 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:52,574 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:52] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:36:52,798 - DEBUG - September_18 exists in calendar
+2016-09-18 08:36:53,008 - INFO - 127.0.0.1 - - [18/Sep/2016 08:36:53] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:37:02,034 - DEBUG - September_18 exists in calendar
+2016-09-18 08:37:02,211 - INFO - 127.0.0.1 - - [18/Sep/2016 08:37:02] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:37:02,866 - DEBUG - September_18 exists in calendar
+2016-09-18 08:37:03,018 - INFO - 127.0.0.1 - - [18/Sep/2016 08:37:03] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:37:08,328 - DEBUG - September_18 exists in calendar
+2016-09-18 08:37:08,478 - INFO - 127.0.0.1 - - [18/Sep/2016 08:37:08] "GET /_add_numbers HTTP/1.1" 200 -
+2016-09-18 08:37:51,525 - DEBUG - September_18 exists in calendar
+2016-09-18 08:37:51,682 - INFO - 127.0.0.1 - - [18/Sep/2016 08:37:51] "GET /_add_numbers?a=&b= HTTP/1.1" 200 -
+2016-09-18 08:38:21,361 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:21,512 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:21] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:38:22,333 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:22,523 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:22] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:38:22,604 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:22,799 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:22] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:38:22,804 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:23,023 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:23] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:38:24,017 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:24,168 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:24] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:38:25,605 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:25,767 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:25] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:38:26,932 - DEBUG - September_18 exists in calendar
+2016-09-18 08:38:27,120 - INFO - 127.0.0.1 - - [18/Sep/2016 08:38:27] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:40:16,375 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:40:25,943 - DEBUG - September_18 exists in calendar
+2016-09-18 08:40:26,149 - INFO - 127.0.0.1 - - [18/Sep/2016 08:40:26] "GET /_add_numbers?a= HTTP/1.1" 200 -
+2016-09-18 08:40:35,082 - DEBUG - September_18 exists in calendar
+2016-09-18 08:40:35,274 - INFO - 127.0.0.1 - - [18/Sep/2016 08:40:35] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 200 -
+2016-09-18 08:40:36,006 - DEBUG - September_18 exists in calendar
+2016-09-18 08:40:36,157 - INFO - 127.0.0.1 - - [18/Sep/2016 08:40:36] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 200 -
+2016-09-18 08:44:00,824 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:44:21,606 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.strptime(a, '%Y-%m-%d')
+AttributeError: module 'datetime' has no attribute 'strptime'
+2016-09-18 08:44:21,732 - INFO - 127.0.0.1 - - [18/Sep/2016 08:44:21] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 500 -
+2016-09-18 08:44:22,635 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.strptime(a, '%Y-%m-%d')
+AttributeError: module 'datetime' has no attribute 'strptime'
+2016-09-18 08:44:22,646 - INFO - 127.0.0.1 - - [18/Sep/2016 08:44:22] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 500 -
+2016-09-18 08:44:23,390 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.strptime(a, '%Y-%m-%d')
+AttributeError: module 'datetime' has no attribute 'strptime'
+2016-09-18 08:44:23,401 - INFO - 127.0.0.1 - - [18/Sep/2016 08:44:23] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 500 -
+2016-09-18 08:44:24,223 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.strptime(a, '%Y-%m-%d')
+AttributeError: module 'datetime' has no attribute 'strptime'
+2016-09-18 08:44:24,233 - INFO - 127.0.0.1 - - [18/Sep/2016 08:44:24] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 500 -
+2016-09-18 08:44:24,437 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.strptime(a, '%Y-%m-%d')
+AttributeError: module 'datetime' has no attribute 'strptime'
+2016-09-18 08:44:24,446 - INFO - 127.0.0.1 - - [18/Sep/2016 08:44:24] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 500 -
+2016-09-18 08:45:09,556 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-09-18 08:45:14,729 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:14] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 200 -
+2016-09-18 08:45:14,738 - DEBUG - September_22 exists in calendar
+2016-09-18 08:45:14,928 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:14] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 200 -
+2016-09-18 08:45:14,947 - DEBUG - September_22 exists in calendar
+2016-09-18 08:45:15,118 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:15] "GET /_add_numbers?a=2016-09-22 HTTP/1.1" 200 -
+2016-09-18 08:45:23,578 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:23,743 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:23] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:24,532 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:24,683 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:24] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:25,136 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:25,284 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:25] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:25,468 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:25,664 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:25] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:25,975 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:26,153 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:26] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:26,406 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:26,578 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:26] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:26,839 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:26,990 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:26] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:27,343 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:27,495 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:27] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:27,746 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:27,945 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:27] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:28,652 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:28,802 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:28] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:29,290 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:29,469 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:29] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:29,893 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:30,044 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:30] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:30,398 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:30,575 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:30] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:45:30,804 - DEBUG - September_18 exists in calendar
+2016-09-18 08:45:30,958 - INFO - 127.0.0.1 - - [18/Sep/2016 08:45:30] "GET /_add_numbers?a=2016-09-18 HTTP/1.1" 200 -
+2016-09-18 08:47:08,936 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:08,970 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:08] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:10,276 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:10,285 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:10] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:11,697 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:11,711 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:11] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:12,417 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:12,428 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:12] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:13,332 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:13,342 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:13] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:30,808 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:30,818 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:30] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:40,888 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:40,940 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:40] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:41,644 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:41,654 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:41] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:41,799 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:41,808 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:41] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:47,455 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:47,467 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:47] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:47,873 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:47,882 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:47] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:48,187 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:48,198 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:48] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:47:48,302 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:47:48,316 - INFO - 127.0.0.1 - - [18/Sep/2016 08:47:48] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:13,499 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:13,510 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:13] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:16,042 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:16,054 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:16] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:25,498 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:25,508 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:25] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:37,082 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:37,094 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:37] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:37,705 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:37,738 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:37] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:38,779 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:38,789 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:38] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:38,939 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:38,949 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:38] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:39,274 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:39,284 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:39] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:51,566 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:51,575 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:51] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:48:51,981 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:48:51,991 - INFO - 127.0.0.1 - - [18/Sep/2016 08:48:51] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:49:03,371 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:03] "GET /_add_numbers?a=2016-09-14 HTTP/1.1" 200 -
+2016-09-18 08:49:03,381 - DEBUG - September_14 exists in calendar
+2016-09-18 08:49:03,528 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:03] "GET /_add_numbers?a=2016-09-14 HTTP/1.1" 200 -
+2016-09-18 08:49:03,718 - DEBUG - September_14 exists in calendar
+2016-09-18 08:49:03,861 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:03] "GET /_add_numbers?a=2016-09-14 HTTP/1.1" 200 -
+2016-09-18 08:49:23,263 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:23] "GET /_add_numbers?a=2016-09-15 HTTP/1.1" 200 -
+2016-09-18 08:49:31,840 - DEBUG - September_15 exists in calendar
+2016-09-18 08:49:31,995 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:31] "GET /_add_numbers?a=2016-09-15 HTTP/1.1" 200 -
+2016-09-18 08:49:32,547 - DEBUG - September_15 exists in calendar
+2016-09-18 08:49:32,751 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:32] "GET /_add_numbers?a=2016-09-15 HTTP/1.1" 200 -
+2016-09-18 08:49:36,065 - DEBUG - September_15 exists in calendar
+2016-09-18 08:49:36,218 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:36] "GET /_add_numbers?a=2016-09-15 HTTP/1.1" 200 -
+2016-09-18 08:49:36,992 - DEBUG - September_15 exists in calendar
+2016-09-18 08:49:37,145 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:37] "GET /_add_numbers?a=2016-09-15 HTTP/1.1" 200 -
+2016-09-18 08:49:58,800 - ERROR - Exception on /_add_numbers [GET]
+Traceback (most recent call last):
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\_compat.py", line 33, in reraise
+    raise value
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Programs\Conception Calc\hello.py", line 19, in add_numbers
+    today = datetime.datetime.strptime(a, '%Y-%m-%d')
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 500, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "C:\Users\Daniel\AppData\Local\Programs\Python\Python35-32\lib\_strptime.py", line 337, in _strptime
+    (data_string, format))
+ValueError: time data '' does not match format '%Y-%m-%d'
+2016-09-18 08:49:58,813 - INFO - 127.0.0.1 - - [18/Sep/2016 08:49:58] "GET /_add_numbers?a= HTTP/1.1" 500 -
+2016-09-18 08:50:06,531 - INFO - 127.0.0.1 - - [18/Sep/2016 08:50:06] "GET /_add_numbers?a=2016-09-01 HTTP/1.1" 200 -
+2016-09-18 08:50:09,172 - DEBUG - September_01 exists in calendar
+2016-09-18 08:50:09,320 - INFO - 127.0.0.1 - - [18/Sep/2016 08:50:09] "GET /_add_numbers?a=2016-09-01 HTTP/1.1" 200 -
